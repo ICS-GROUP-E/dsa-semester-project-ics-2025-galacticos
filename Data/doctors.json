@@ -1,0 +1,14 @@
+{
+    "12344": {
+        "doctor_id": "12344",
+        "name": "Lewis",
+        "specialization": "Dentist",
+        "slots": [
+            "11",
+            "22"
+        ],
+        "appointments": [
+            "Mina @ 11:15"
+        ]
+    }
+}
