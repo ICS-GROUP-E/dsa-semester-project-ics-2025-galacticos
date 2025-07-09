@@ -1,0 +1,77 @@
+[
+    {
+        "patient_id": "171534",
+        "name": "Ben",
+        "consultation_fee": 500.0,
+        "medicine_cost": 1700.0,
+        "room_charges": 0.0,
+        "total": 2200.0
+    },
+    {
+        "patient_id": "123456",
+        "name": "Ben",
+        "consultation_fee": 200.0,
+        "medicine_cost": 3000.0,
+        "room_charges": 1500.0,
+        "total": 4700.0
+    },
+    {
+        "patient_id": "190009",
+        "name": "Ngahu",
+        "consultation_fee": 500.0,
+        "medicine_cost": 4000.0,
+        "room_charges": 10000.0,
+        "total": 14500.0
+    },
+    {
+        "patient_id": "190480",
+        "name": "Sandra",
+        "doctor": "John",
+        "consultation_fee": 2500.0,
+        "medicine_cost": 3250.0,
+        "room_charges": 0.0,
+        "days_admitted": 0,
+        "payment_method": "Insurance",
+        "total": 5750.0,
+        "date": "2025-07-01"
+    },
+    {
+        "patient_id": "171534",
+        "name": "Kuria",
+        "doctor": "Dr. Maina",
+        "consultation_fee": 4000.0,
+        "medicine_cost": 5000.0,
+        "room_charges": 2000.0,
+        "days_admitted": 0,
+        "payment_method": "Insurance",
+        "payment_details": "CIC",
+        "total": 9000.0,
+        "date": "2025-07-01"
+    },
+    {
+        "patient_id": "171534",
+        "name": "Ben",
+        "doctor": "Mwangi",
+        "consultation_fee": 3000.0,
+        "medicine_cost": 4500.0,
+        "room_charges": 0.0,
+        "days_admitted": 0,
+        "payment_method": "Insurance",
+        "payment_details": "Jubilee",
+        "total": 7500.0,
+        "date": "2025-07-01"
+    },
+    {
+        "patient_id": "122345",
+        "name": "Mwenda",
+        "doctor": "Mutisya",
+        "consultation_fee": 4500.0,
+        "medicine_cost": 10000.0,
+        "room_charges": 0.0,
+        "days_admitted": 0,
+        "payment_method": "Insurance",
+        "payment_details": "Jubilee",
+        "total": 14500.0,
+        "date": "2025-07-02"
+    }
+]
