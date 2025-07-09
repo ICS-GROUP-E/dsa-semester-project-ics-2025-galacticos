@@ -1,9 +1,17 @@
 [
     {
+<<<<<<< HEAD
         "id": "P002",
         "name": "Jane Smith",
         "age": 29,
         "condition": "Observation",
         "status": "Admitted"
+=======
+        "id": 1,
+        "name": "de",
+        "age": 23,
+        "gender": "Male",
+        "condition": "sick"
+>>>>>>> origin/reg_no_182842_patient
     }
 ]

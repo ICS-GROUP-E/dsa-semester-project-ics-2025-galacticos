@@ -4,11 +4,19 @@ class StudentNode:
         self.name = name
         self.course = course
         self.gpa = gpa
+<<<<<<< HEAD
         self.next = None  
 
 class StudentLinkedList:
     def __init__(self):
         self.head = None  
+=======
+        self.next = None  # Pointer to the next node
+
+class StudentLinkedList:
+    def __init__(self):
+        self.head = None  # Initialize empty list
+>>>>>>> origin/reg_no_182842_patient
 
     def add_student(self, student_id, name, course, gpa):
         new_student = StudentNode(student_id, name, course, gpa)
@@ -67,4 +75,8 @@ students.add_student("P23456", "Bob", "Math", 3.2)
 students.display_all()
 students.search_student("P12345")
 students.delete_student("P12345")
+<<<<<<< HEAD
 students.display_all()
+=======
+students.display_all()
+>>>>>>> origin/reg_no_182842_patient
